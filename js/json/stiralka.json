@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "LG FH-0B8ND",
+        "price": 616,
+        "img": "1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Körting KWA825",
+        "price": 329,
+        "img": "2.webp"
+    },
+    {
+        "id": 3,
+        "name": "INDESIT E2SE 50",
+        "price": 532,
+        "img": "15.webp"
+    },
+    {
+        "id": 4,
+        "name": "INDESIT IWSC 52A",
+        "price": 456,
+        "img": "4.webp"
+    },
+    {
+        "id": 5,
+        "name": "LG FH-0C3LD",
+        "price": 399,
+        "img": "5.webp"
+    },
+    {
+        "id": 6,
+        "name": "BEKO LBU 58001",
+        "price": 858,
+        "img": "6.webp"
+    }
+]
+
